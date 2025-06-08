@@ -184,7 +184,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className={styles.footer}>
-          <p>© 2025 Sui Raffle. All rights reserved.</p>
+          <p>© 2025 WheatChain Raffle. All rights reserved.</p>
         </footer>
       </div>
     </>
